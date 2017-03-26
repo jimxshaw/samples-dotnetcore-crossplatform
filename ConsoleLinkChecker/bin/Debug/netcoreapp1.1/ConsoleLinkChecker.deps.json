@@ -1,14 +1,22 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.1",
-    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "signature": "437579a0cdbbd1177bc83733b6d7e862222ccae0"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "consolelinkchecker/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack.NetCore": "1.5.0.1"
+        },
         "runtime": {
           "ConsoleLinkChecker.dll": {}
+        }
+      },
+      "htmlagilitypack.netcore/1.5.0.1": {
+        "runtime": {
+          "lib/netstandard1.3/HtmlAgilityPack.NetCore.dll": {}
         }
       }
     }
@@ -18,6 +26,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "htmlagilitypack.netcore/1.5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N6FUlFbidfiWu1TcrNDQufaU5TbZ2RRn+kYHjwsLxcklQU8Cnmul+pTn2clKausZRHeFVxGp2ZECIWuDvot8Hg==",
+      "path": "htmlagilitypack.netcore/1.5.0.1",
+      "hashPath": "htmlagilitypack.netcore.1.5.0.1.nupkg.sha512"
     }
   }
 }

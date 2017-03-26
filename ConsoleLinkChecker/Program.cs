@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Net.Http;
 
 namespace ConsoleLinkChecker
@@ -13,6 +14,11 @@ namespace ConsoleLinkChecker
             var body = client.GetStringAsync(site);
 
             Console.WriteLine(body.Result);
+
+            Console.WriteLine();
+            Console.WriteLine("Links");
+            var links = LinkChecker.GetLinks(body.Result);
+            links.ToList().ForEach(Console.WriteLine);
         }
     }
 }

@@ -14,3 +14,4 @@ C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\bin\Debug\net
 C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.AssemblyInfo.cs
 C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.dll
 C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.pdb
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.csprojResolveAssemblyReference.cache
