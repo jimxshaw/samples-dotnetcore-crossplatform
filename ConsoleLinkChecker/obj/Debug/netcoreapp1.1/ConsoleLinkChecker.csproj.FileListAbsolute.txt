@@ -6,3 +6,11 @@
 /Users/jamesshaw/Documents/projects/samples-dotnetcore-crossplatform/ConsoleLinkChecker/obj/Debug/netcoreapp1.1/ConsoleLinkChecker.AssemblyInfo.cs
 /Users/jamesshaw/Documents/projects/samples-dotnetcore-crossplatform/ConsoleLinkChecker/obj/Debug/netcoreapp1.1/ConsoleLinkChecker.dll
 /Users/jamesshaw/Documents/projects/samples-dotnetcore-crossplatform/ConsoleLinkChecker/obj/Debug/netcoreapp1.1/ConsoleLinkChecker.pdb
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\bin\Debug\netcoreapp1.1\ConsoleLinkChecker.deps.json
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\bin\Debug\netcoreapp1.1\ConsoleLinkChecker.runtimeconfig.json
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\bin\Debug\netcoreapp1.1\ConsoleLinkChecker.runtimeconfig.dev.json
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\bin\Debug\netcoreapp1.1\ConsoleLinkChecker.dll
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\bin\Debug\netcoreapp1.1\ConsoleLinkChecker.pdb
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.AssemblyInfo.cs
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.dll
+C:\YX\projects\samples-dotnetcore-crossplatform\ConsoleLinkChecker\obj\Debug\netcoreapp1.1\ConsoleLinkChecker.pdb
